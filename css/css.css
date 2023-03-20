@@ -16,10 +16,11 @@ input{ width: 70%;
       border-radius: 5000px;
       background: rgb(239, 239, 244);
       border: 1.5px solid black;
+      margin-bottom: 3%;
       }
 
-input:focus{ outline:1px solid rgb(29, 124, 249);
-             border: 1px solid rgb(29, 124, 249) ;}
+input:focus{ outline:1px solid rgb(42, 130, 245);
+             border: 1px solid rgb(42, 130, 245) ;}
 
 
 
